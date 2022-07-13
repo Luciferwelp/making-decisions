@@ -53,7 +53,7 @@ if (amysBirthYear === brittanisBirthYear) {
 } else {
   console.log("Amy & Brittani were not born in the same year.")
 } 
-
+// testing 1
 ////////// PROBLEM 4 //////////
 
 let temperature = 55;
